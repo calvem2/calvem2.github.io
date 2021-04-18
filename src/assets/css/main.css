@@ -3167,7 +3167,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		padding: 5em 0 6em 0 ;
+		padding: 2em 0 2em 0;
 		background-color: #f6f6f6;
 	}
 
@@ -3186,24 +3186,35 @@ input, select, textarea {
 			flex-direction: row;
 		}
 
+			#footer > .inner > div:nth-child(1) {
+				width: 100%;
+				display: flex;
+				justify-content: space-between;
+			}
+
 			#footer > .inner > * > :last-child {
 				margin-bottom: 0;
 			}
 
 			#footer > .inner section:nth-child(1) {
-				width: calc(66% - 2.5em);
+				/*width: calc(66% - 2.5em);*/
 				margin-right: 2.5em;
 			}
 
 			#footer > .inner section:nth-child(2) {
-				width: calc(33% - 2.5em);
+				/*width: calc(33% - 2.5em);*/
 				margin-left: 2.5em;
+			}
+
+			#footer > .inner section:nth-child(3) p {
+				display: inline;
+				padding-left: 1em;
 			}
 
 			#footer > .inner .copyright {
 				width: 100%;
 				padding: 0;
-				margin-top: 5em;
+				margin-top: 2em;
 				list-style: none;
 				font-size: 0.8em;
 				color: rgba(88, 88, 88, 0.5);
