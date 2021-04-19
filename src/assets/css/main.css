@@ -1845,16 +1845,16 @@ input, select, textarea {
 			background-color: transparent;
 			border: solid 1px #c9c9c9;
 			border-radius: 4px;
-			width: 2.65em;
-			height: 2.65em;
+			width: 12em;
+			height: 12em;
 			display: inline-block;
 			text-align: center;
-			line-height: 2.65em;
+			line-height: 12em;
 			color: inherit;
 		}
 
 			.icon.style2:before {
-				font-size: 1.1em;
+				font-size: 6em;
 			}
 
 			.icon.style2:hover {
@@ -2040,6 +2040,22 @@ input, select, textarea {
 		}
 
 /* Icons */
+
+	ul.icons.list {
+		display: flex;
+		flex-direction: row;
+	}
+
+	ul.icons.list li {
+		display: flex;
+		align-items: center;
+		flex-direction: column;
+	}
+
+	/*ul.icons.list li p {*/
+	/*	margin-bottom: 0;*/
+	/*	margin-left: 1em;*/
+	/*}*/
 
 	ul.icons {
 		cursor: default;

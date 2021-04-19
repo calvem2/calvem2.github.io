@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38b0f3cb-c20a-4f6f-8ad0-e9fa4dbc7f4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/guesswho.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/campuspaths-header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mannmukti.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nightride.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/noplanetb.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/securibee.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tiffanyandcardco.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wildfires.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/links.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/accountabubble.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/accountabubble.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
@@ -86,7 +80,7 @@
       <workItem from="1618685296383" duration="526000" />
       <workItem from="1618685873434" duration="18488000" />
       <workItem from="1618795772816" duration="4988000" />
-      <workItem from="1618801142555" duration="2715000" />
+      <workItem from="1618801142555" duration="6161000" />
     </task>
     <servers />
   </component>
