@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38b0f3cb-c20a-4f6f-8ad0-e9fa4dbc7f4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/guesswho.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/campuspaths-header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mannmukti.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nightride.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/noplanetb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/securibee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tiffanyandcardco.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wildfires.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/accountabubble.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/accountabubble.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/main.css" afterDir="false" />
@@ -52,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.accountabubble.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="accountabubble.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/personal-website/accountabubble.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -61,8 +68,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.accountabubble.html" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.accountabubble.html" />
       </list>
     </recent_temporary>
   </component>
@@ -77,11 +84,26 @@
       <option name="presentableId" value="Default" />
       <updated>1618685294637</updated>
       <workItem from="1618685296383" duration="526000" />
-      <workItem from="1618685873434" duration="18423000" />
+      <workItem from="1618685873434" duration="18488000" />
+      <workItem from="1618795772816" duration="4988000" />
+      <workItem from="1618801142555" duration="2715000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
