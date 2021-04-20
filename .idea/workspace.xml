@@ -4,12 +4,16 @@
     <list default="true" id="38b0f3cb-c20a-4f6f-8ad0-e9fa4dbc7f4e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/accountabubble.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/accountabubble.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/campuspaths.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/campuspaths.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/guesswho.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guesswho.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/mannmukti.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/mannmukti.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/nightride.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/nightride.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/noplanetb.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/noplanetb.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/securibee.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/securibee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tiffanyandcardco.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tiffanyandcardco.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/wildfires.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/wildfires.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,7 +60,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.about.html">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/personal-website/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="accountabubble.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/personal-website/accountabubble.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -65,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.about.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.accountabubble.html" />
       </list>
@@ -84,8 +92,17 @@
       <workItem from="1618685873434" duration="18488000" />
       <workItem from="1618795772816" duration="4988000" />
       <workItem from="1618801142555" duration="6865000" />
-      <workItem from="1618873172717" duration="783000" />
+      <workItem from="1618873172717" duration="944000" />
+      <workItem from="1618881391011" duration="248000" />
     </task>
+    <task id="LOCAL-00001" summary="spelling fixes">
+      <created>1618873983326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618873983326</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spelling fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="spelling fixes" />
   </component>
 </project>
